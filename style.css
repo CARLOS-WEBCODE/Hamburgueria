@@ -51,7 +51,7 @@ p
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: 2px;
-	transition: 0.5s;
+	transition: 0.1s;
 	border-radius: 20px;
 }
 .btn:hover
