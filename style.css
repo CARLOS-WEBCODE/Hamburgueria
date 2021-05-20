@@ -56,7 +56,9 @@ p
 }
 .btn:hover
 {
-	letter-spacing: 6px;
+	letter-spacing: 3px;
+	color: #FF8C00;
+	box-shadow: 0 0 10px #a00404, 0 0 40px #FF8C00, 0 0 90px #FF8C00;
 }
 header
 {
